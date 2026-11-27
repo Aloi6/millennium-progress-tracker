@@ -1,0 +1,13 @@
+[plugin]
+id = "com.mpt.progress"
+name = "Millennium Progress Tracker"
+version = "0.5.2"
+author = "MPT"
+description = "Desktop Steam game progress tracking"
+[backend]
+entry = "backend/main.lua"
+sources = ["backend/**/*.lua"]
+[frontend]
+entry = "frontend/index.tsx"
+[compiler]
+output_path = "dist"

@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.millennium/
+*.star
+.env
+.env.*
