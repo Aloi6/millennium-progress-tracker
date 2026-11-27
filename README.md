@@ -20,3 +20,9 @@ bun run build
 ```
 
 Starlight writes the package to `dist/com.mpt.progress.star`. Steam client updates can affect the right-click integration and artwork detection.
+
+
+## Contributors
+
+- **Aloi6** — Project owner
+- **OpenAI Codex** — AI-assisted development and testing
